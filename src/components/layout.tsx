@@ -23,6 +23,9 @@ const Layout = ({
         <h1 className="text-3xl my-8 font-bold text-purple-500">{pageTitle}</h1>
         {children}
       </main>
+      <footer>
+        <a href="https://www.123freevectors.com/">Free Vector</a>
+      </footer>
     </div>
   );
 };

@@ -2,8 +2,8 @@
   "name": "personal-finances-gatsby",
   "version": "1.0.0",
   "private": true,
-  "engines":{
-    "node":">18.0.0"
+  "engines": {
+    "node": ">18.0.0"
   },
   "description": "personal-finances-gatsby",
   "author": "Vladimir Shirmanov",
@@ -21,7 +21,10 @@
   "dependencies": {
     "autoprefixer": "^10.4.15",
     "gatsby": "^5.12.4",
+    "gatsby-plugin-image": "^3.12.0",
     "gatsby-plugin-postcss": "^6.12.0",
+    "gatsby-plugin-sharp": "^5.12.0",
+    "gatsby-source-filesystem": "^5.12.0",
     "postcss": "^8.4.29",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
